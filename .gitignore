@@ -1,0 +1,12 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs
+/bin/Debug
+/My Project
+/obj/Debug
+/obj/Release
+*.config
+/bin/Release/Solver.pdb
+/bin/Release/Solver.xml
