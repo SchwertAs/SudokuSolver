@@ -1,6 +1,8 @@
 # SudokuSolver
 Supports solving of sudoku puzzles
 
+![SudokuSolver Oberfläche](./Solver.png)
+
 - Easyly enter a Sudoku puzzle by mouse
 - create new puzzles automatically
 - notations about possible Digits without pencil (with right-click)
