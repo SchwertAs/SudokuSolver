@@ -1,7 +1,7 @@
 # SudokuSolver
 Supports solving of sudoku puzzles
 
-![SudokuSolver Oberfl‰che](./Solver.png)
+![SudokuSolver Oberfl√§che](./Solver.png)
 
 - Easyly enter a Sudoku puzzle by mouse
 - create new puzzles automatically
@@ -14,7 +14,7 @@ Supports solving of sudoku puzzles
 - automatically or manually wipe out obsolete possible digits by rules:
   - search for single digit in row
   - search for single digit in column
-  - search for single digit in 9x9 carret
+  - search for single digit in 3x3 carret
   - if all species of a digit reside on one line of a carret, the remaining line cannot contain this digit
   - if all species of a digit reside on one row of a carret, the remaining row cannot contain this digit
   - if a pair of same digits with no other possible digits in their fields reside on a row, all other fields of that row cannot contain this pair of digits
